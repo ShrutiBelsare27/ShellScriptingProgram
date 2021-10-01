@@ -1,5 +1,5 @@
 #!/bin/bash -x
-#Use Random Function (( RANDOM )) to get Single Digit
+
 
 random_value=$RANDOM;
 echo "The random value is: $random_value";
