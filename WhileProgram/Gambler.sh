@@ -1,4 +1,6 @@
 #!/bin/bash -x
+
+
 read -p "enter a wallet amount :" walletAmount
 read -p "enter a goal amount " goal
 counter=0;
